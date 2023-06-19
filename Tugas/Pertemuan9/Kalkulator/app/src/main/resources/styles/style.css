@@ -1,0 +1,27 @@
+.root {
+    -fx-background-color: #01FFF2;
+}
+
+Label {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+	-fx-text-fill: #fff;
+}
+
+TextField {
+    -fx-min-width: 100px;
+	-fx-min-height: 40px;
+	-fx-max-width: 200px;
+	-fx-max-height: 80px;
+	-fx-font-size: 18px;
+}
+
+Button {
+    -fx-background-color: #b5a7a7;
+	-fx-text-fill: #060000;
+	-fx-min-width: 100px;
+	-fx-min-height: 40px;
+	-fx-max-width: 200px;
+	-fx-max-height: 80px;
+	-fx-font-size: 18px;
+}
